@@ -1,0 +1,13 @@
+{
+  "name": "luminari-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:client": "cd client && npm run dev",
+    "dev:server": "cd server && npm run dev",
+    "install:all": "npm i && cd client && npm i && cd ../server && npm i"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
