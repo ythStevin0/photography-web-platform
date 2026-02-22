@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📷 Luminari Studio
+# Luminari Studio
 
 **Platform web fotografi profesional berbasis MERN Stack**
 
@@ -15,13 +15,13 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 Luminari Studio adalah website portofolio fotografi profesional yang dibangun dengan arsitektur **MERN Stack** modern. Menampilkan layanan, galeri portofolio dengan filter kategori, dan integrasi kontak langsung via WhatsApp. Mendukung upload media ke **Cloudinary** dan data dinamis dari **MongoDB**.
 
 ---
 
-## 🗂️ Struktur Proyek
+## Struktur Proyek
 
 ```
 luminari-mern/
@@ -59,7 +59,7 @@ luminari-mern/
 
 ---
 
-## ⚙️ Instalasi & Konfigurasi
+## Instalasi & Konfigurasi
 
 ### Prerequisites
 - Node.js >= 18
@@ -118,7 +118,7 @@ npm run dev:client
 
 ---
 
-## 🔌 API Reference
+## API Reference
 
 ### Public Endpoints
 
@@ -139,7 +139,7 @@ npm run dev:client
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer | Teknologi |
 |-------|-----------|
@@ -155,7 +155,7 @@ npm run dev:client
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - **Scroll-aware Navbar** — transisi glass morphism saat scroll
 - **Hero Section** — animasi entrance dengan Framer Motion
